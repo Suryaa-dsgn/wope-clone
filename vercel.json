@@ -1,0 +1,5 @@
+{
+  "buildCommand": "cd wope-clone && npm install && npm run build",
+  "outputDirectory": "wope-clone/.next",
+  "installCommand": "cd wope-clone && npm install"
+}
